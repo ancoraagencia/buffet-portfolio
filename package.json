@@ -1,0 +1,1 @@
+{   "name": "buffet-portfolio",<br/>   "version": "1.0.0",<br/>   "private": true,<br/>   "scripts": {<br/>     "dev": "next dev",<br/>     "build": "next build",<br/>     "start": "next start",<br/>     "export": "next export"   },   "dependencies": {<br/>     "next": "12.3.4",<br/>     "react": "18.2.0",<br/>     "react-dom": "18.2.0"   } }
