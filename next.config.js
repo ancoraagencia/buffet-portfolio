@@ -1,0 +1,1 @@
+/** @type {import('next').NextConfig} */ const nextConfig = {   reactStrictMode: true,<br/>   images: {<br/>     domains: ['via.placeholder.com'],   },   // Descomente para GitHub Pages (substitua 'buffet-portfolio' pelo nome do seu repositório)   // basePath: '/buffet-portfolio',<br/>   // assetPrefix: '/buffet-portfolio/', }  module.exports = nextConfig
